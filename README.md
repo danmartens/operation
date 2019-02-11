@@ -1,4 +1,4 @@
-# Operation
+# Operation &middot; ![Build Status](https://travis-ci.org/danmartens/operation.svg?branch=master)
 
 ## Getting Started
 
